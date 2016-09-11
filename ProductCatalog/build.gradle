@@ -1,0 +1,10 @@
+//jar {
+//    baseName = 'gs-accessing-data-mongodb'
+//    version =  '0.1.0'
+//}
+
+dependencies {
+
+    compile("org.springframework.boot:spring-boot-starter-data-mongodb")
+
+}
